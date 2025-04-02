@@ -1,0 +1,1 @@
+This project uses .XAML and .cs files to display a form that the user can use to fill out information. It has error handling and will display the users chosen information once the user clicks submit. It can also clear the chosen information at any time. 
